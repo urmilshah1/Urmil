@@ -1,3 +1,3 @@
 # Urmil Shah
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urmilshah1)](https://github.com/urmilshah1/github-readme-stats)
+[![Urmil's github stats](https://github-readme-stats.vercel.app/api?username=urmilshah1&show_icons=true&line_height=21&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
